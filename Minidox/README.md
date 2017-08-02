@@ -1,10 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+#Minidox Files!
 
-\f0\fs24 \cf0 ###Minidox Files!\
-\
-I\'92m going to put the files here once I ship the boards out, but I need to have a QR code to this folder, so it\'92s going up early!}
+
+I'm going to put the files here once I ship the boards out, but I need to have a QR code to this folder, so it\'92s going up early!}
