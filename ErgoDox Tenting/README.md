@@ -7,6 +7,7 @@ The files included are STEP for every piece, STL for 3D printables, and DXF for 
 The Top and Bottom Cases could be 3D printed, or machined from a metal/plastic.
 The LCD window/cover is designed to be laser cut out of 0.079" thick acrylic.  It will work to have it thicker, it just will not be level with the rest of the case.
 
+
 #### Locking in Screw height
 
 To lock screw height, just add 2 1/4-20 nuts on the screw, right before the threaded hole on the case.  Tighten both nuts against the case.
@@ -15,4 +16,13 @@ When you remove the screw, leave the nuts snugged against each other.  That way,
 
 ![Diagram of the Screw-nuts-case system together](http://i.imgur.com/7FtCnVR.jpg)
 
-![Approximate look at the what the cases will be like.  Subject to change.](http://imgur.com/a/zDdpQ)
+[Approximate look at the what the cases will be like.  Subject to change.](http://imgur.com/a/zDdpQ)
+
+
+#### Update 2017/18
+
+New files have been added for a new "seamless" case that works with 6-32 screws.  Below are addition images.
+
+![Almost Iso](https://i.imgur.com/dMRoOqJ.png)
+
+![Flatter](https://i.imgur.com/eH6KZMj.png)
