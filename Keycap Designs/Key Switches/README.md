@@ -1,6 +1,6 @@
 ## Key Switches - ALPS/MX Sliders
 
-![Spinny giffy](http://i.imgur.com/E2NOPkg.gifv)
+![Spinny giffy](http://i.imgur.com/E2NOPkg.gif)
 
 Slider replacement to let ALPS switches support MX mount keycaps.  
 Supports bumpers for silencing.
