@@ -1,6 +1,10 @@
 # Minidox Files!
 
-Files are posted, [check here](https://youtu.be/ApG_g-MvKxE) for me explaning how to put it together.
+Files are posted, Video below of me explaning how to put it together.
+
+[![Assembly youtube video](https://i.imgur.com/hmnkVdn.jpg)](https://youtu.be/ApG_g-MvKxE)
+
+
 
 ## Acrylic thicknesses:
 
