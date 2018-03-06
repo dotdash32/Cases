@@ -13,6 +13,6 @@ To lock screw height, just add 2 1/4-20 nuts on the screw, right before the thre
 
 When you remove the screw, leave the nuts snugged against each other.  That way, they will hold the position that the screw should go to.
 
-[Diagram of the Screw-nuts-case system together](http://i.imgur.com/7FtCnVR.jpg)
+![Diagram of the Screw-nuts-case system together](http://i.imgur.com/7FtCnVR.jpg)
 
-[Approximate look at the what the cases will be like.  Subject to change.](http://imgur.com/a/zDdpQ)
+![Approximate look at the what the cases will be like.  Subject to change.](http://imgur.com/a/zDdpQ)
