@@ -4,6 +4,8 @@
 
 A phone case with expandable back attachments.
 
+![Phone case with laser attachment](https://i.imgur.com/4zs4hSz.jpg)
+
 For Engineering 27, a group of 5 students created a phone case for an iPhone 7+ that has an adapter on the back to mount various accessories.
 Sample attachments are a laser pointer and money clip.
 A full set of toleranced and dimenionsed working drawings are included, as well as STP files of the main components.
