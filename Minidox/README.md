@@ -1,5 +1,9 @@
 # Minidox Files!
 
+The project has been coordinated from Geekhack
+([thread here](https://geekhack.org/index.php?topic=89951.msg2435112#msg2435112)), 
+and the group buy run through reddit.  The Geekhack link has reddit threads and related discussion.
+
 Files are posted, Video below of me explaning how to put it together.
 
 [![Assembly youtube video](https://i.imgur.com/hmnkVdn.jpg)](https://youtu.be/ApG_g-MvKxE)
